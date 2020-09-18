@@ -35,7 +35,7 @@ Observation of convicts
 * April 2013 - November 2014
 1 year 8 months  
 FKU IK-3
-Novokuibyshevsk  
+Novokuibyshevsk.  
 Technician of the ITSO group
 Installation and maintenance:
 video surveillance;
