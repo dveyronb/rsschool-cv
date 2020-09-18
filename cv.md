@@ -38,9 +38,9 @@ FKU IK-3
 Novokuibyshevsk.  
 Technician of the ITSO group
 Installation and maintenance:
-video surveillance;
-alarm detectors;
-security systems;
+video surveillance;  
+alarm detectors;  
+security systems;  
 Installation of engineering security equipment
 
 ## Education
